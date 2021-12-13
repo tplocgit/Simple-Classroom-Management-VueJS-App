@@ -1,5 +1,5 @@
 # vue-demo-app
-
+VueJS demo app for my Introduce to VueJS sermina in class
 ## Project setup
 ```
 npm install
