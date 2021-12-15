@@ -1,5 +1,5 @@
 # vue-demo-app
-VueJS demo app for my Introduce to VueJS sermina in class
+VueJS demo app for my Introduce to VueJS seminar in class. Watch Demo: https://youtu.be/AYRqV1mSulA
 ## Project setup
 ```
 npm install
